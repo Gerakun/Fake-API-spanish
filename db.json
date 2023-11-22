@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "imagen:": "../Imagenes/Productos/StarWars/unsplash_KeGToDVN0l4.png", 
+      "imagen:": "https://drive.google.com/file/d/1z9O0wA8ft_JMZHI7vaUZPX86IF-UMR3D/view", 
       "categoria": "Didacticos",
       "nombre": "Domino didáctico chico",
       "precio": "$75",
@@ -9,7 +9,7 @@
       "id": "4c79132c-4e98-4a13-9488-c8a78b9ab30c"
     },
     {
-      "imagen:": "../Imagenes/Productos/StarWars/unsplash_KeGToDVN0l4.png", 
+      "imagen:": "https://drive.google.com/file/d/1LK5VTWKVFlM37RWlX1qgVa0CtBfOAEAM/view?usp=drive_link", 
       "categoria": "Didacticos",
       "nombre": "Memórama bilingüe (varios temas)",
       "precio": "$75",
