@@ -17,7 +17,7 @@
       "id": "69b774d7-84cc-46cd-913f-d88f5d500c6c"
     },
     {
-      "imagen:": "../Imagenes/Productos/StarWars/unsplash_KeGToDVN0l4.png", 
+      "imagen:": "/Didacticos/domino didactico.jpe", 
       "categoria": "Didacticos",
       "nombre": "kinderpedia varios títulos",
       "precio": "$75",
@@ -25,7 +25,7 @@
       "id": "45820bbe-85cf-4c86-872d-63a9671b957d"
     },
     {
-      "imagen:": "../Imagenes/Productos/StarWars/unsplash_KeGToDVN0l4.png", 
+      "imagen:": "Didacticos/domino didactico.jpe", 
       "categoria": "Didacticos",
       "nombre": "Juego de serpiente alfabética, cocodrilo numérico u oruga numérica bilingüe",
       "precio": "$120",
@@ -33,7 +33,7 @@
       "id": "6eb03210-9342-458e-a995-017d94a2fb88"
     },
     {
-      "imagen:": "../Imagenes/Productos/StarWars/unsplash_KeGToDVN0l4.png", 
+      "imagen:": ".Didacticos/domino didactico.jpe", 
       "categoria": "Didacticos",
       "nombre": "Lotería didáctica (varios temas)",
       "precio": "$35",
