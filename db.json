@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "imagen:": "https://drive.google.com/file/d/1z9O0wA8ft_JMZHI7vaUZPX86IF-UMR3D/view", 
+      "imagen:": "../Didacticos/domino didactico.jpe", 
       "categoria": "Didacticos",
       "nombre": "Domino didáctico chico",
       "precio": "$75",
